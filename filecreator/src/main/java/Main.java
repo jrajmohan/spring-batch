@@ -1,4 +1,4 @@
-import org.springframework.boot.SpringApplication;
+import org.springframework.boot.*;
 
 /**
  * Created by Raj on 12/24/16.
